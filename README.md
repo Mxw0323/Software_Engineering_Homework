@@ -28,14 +28,8 @@ Example:
 
 ## Routine run and its results
 
-GitHub 图床中上传的图片很多情况下无法正常显示，采用『有道云笔记』自带图床保存图片。
-
 V2:
-<center>
-<img src="https://note.youdao.com/yws/api/personal/file/52B7EDF6211244428735B5E6B7B6AE72?method=download&shareKey=7ef04cab0952d17cd11fd59ba30c3e7a" width=800 align=center>
-</center>
+<img src="https://github.com/Mxw0323/myphotos/blob/main/test2.png?raw=true">
 
 V3:
-<center>
-<img src="https://note.youdao.com/yws/api/personal/file/3991195BC0FF4C458460ACB19072D2E4?method=download&shareKey=16b39d0eb5380ccfa7b14692bb5fc77c" width=800 align=center>
-</center>
+<img src="https://github.com/Mxw0323/myphotos/blob/main/test3.png?raw=true">
