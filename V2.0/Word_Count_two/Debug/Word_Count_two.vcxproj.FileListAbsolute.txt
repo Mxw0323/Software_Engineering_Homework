@@ -1,0 +1,2 @@
+D:\Software_Engineering\Word_Count\Software_Engineering_Homework\V2.0\Word_Count_two\Debug\Word_Count_two.exe
+D:\Software_Engineering\Word_Count\Software_Engineering_Homework\V2.0\Word_Count_two\Debug\Word_Count_two.pdb

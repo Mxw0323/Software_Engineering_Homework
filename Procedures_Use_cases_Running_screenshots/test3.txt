@@ -1,0 +1,10 @@
+Implement a command line text counting statistics program.
+
+//It can correctly count the number of characters, words,
+
+and sentences in the imported pure English txt text. 
+
+//The specific command line interface requirements are.
+
+
+as follows.
