@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="Word_Count_three.cpp">
+    <ClCompile Include="Word_Count_three.c">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
